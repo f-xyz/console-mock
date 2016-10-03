@@ -1,0 +1,12 @@
+.git/
+.idea/
+coverage/
+node_modules/
+test/
+docs/
+.gitignore
+.travis.yml
+deploy.sh
+gulpfile.js
+watch-test.sh
+npm-debug.log
